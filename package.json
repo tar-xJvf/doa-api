@@ -2,10 +2,10 @@
   "name": "doa-api",
   "version": "1.0.0",
   "description": "Struktur Table: table kategori table doa",
-  "main": "src/server.js",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node src/server.js",
-    "dev": "CHOKIDAR_USEPOLLING=true nodemon src/server.js"
+    "start": "node src/index.js",
+    "dev": "CHOKIDAR_USEPOLLING=true nodemon src/index.js"
   },
   "keywords": [],
   "author": "",
